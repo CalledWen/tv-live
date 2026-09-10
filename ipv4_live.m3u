@@ -1,9 +1,7 @@
 📺央视频道,#genre#
-CCTV-1,http://125.42.148.178:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1,http://121.57.88.206:898/hls/1/index.m3u8
 CCTV-2,https://iptv.catvod.com/douyin/nuanxinnengl
 CCTV-3,http://59.172.112.202:8000/hls/3/index.m3u8
-CCTV-4,http://125.42.148.178:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,http://121.57.88.206:898/hls/4/index.m3u8
 CCTV-5,http://59.172.112.202:8000/hls/5/index.m3u8
 CCTV-5+,http://121.57.88.206:898/hls/18/index.m3u8
@@ -87,7 +85,7 @@ CGTN-外语纪录,https://0472.org/hls/cgtnd.m3u8
 新视觉HD,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
 新视觉HD,http://gat.bkpcp.top/ymg.php?id=mlzq
 新视觉HD,http://t.061899.xyz/tl/dq.php?id=mlzq
-华数电影 http://hmfs.f3322.net:3388/hls/40/index.m3u8$广东/茂名/电信
+华数电影,http://hmfs.f3322.net:3388/hls/40/index.m3u8$广东/茂名/电信
 中牟生活,http://zmgd.zyrnet.com:8888/hls/20/index.m3u8$郑州/移动酒店
 邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
 邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
@@ -118,46 +116,45 @@ CGTN-外语纪录,https://0472.org/hls/cgtnd.m3u8
 明珠台,http://120.238.84.45:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰影视,http://221.7.175.154:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 TVB DRAMA,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbdrama-tvbanywhereus/playlist.m3u8
-TVB https://cdn.qd.je/163189.php?id=tvb1
-TVBj1 https://cdn.qd.je/163189.php?id=j1
-翡翠剧集台 https://cdn.qd.je/163189.php?id=tvbd
-TVB Plus https://cdn.qd.je/163189.php?id=tvbp 
-ViuTV https://cdn.qd.je/163189.php?id=viu
-ViuTV six https://cdn.qd.je/163189.php?id=viu6
-NOW新闻 https://cdn.qd.je/163189.php?id=now
-hoy76 https://cdn11.163189.xyz/163189/hoy76
-hoy77 https://cdn11.163189.xyz/163189/hoy77
-hoy78 https://cdn11.163189.xyz/163189/hoy78
-金光布袋戏 https://cdn.qd.je/163189.php?id=jgbdx 
-TVB星河 https://cdn.qd.je/163189.php?id=xinghe
-天映频道 https://cdn.qd.je/163189.php?id=typd
-天映经典 https://cdn.qd.je/163189.php?id=ccm
-TVB星河,https://cdn.qd.je/163189.php?id=tvbxh 
-TVB千禧经典 https://cdn.qd.je/163189.php?id=tvbc 
-TVB武侠 https://cdn.qd.je/163189.php?id=yzwx 
-Astro AOD https://cdn.qd.je/163189.php?id=aod  
-CH5 https://cdn.qd.je/163189.php?id=ch5
-CH8 https://cdn.qd.je/163189.php?id=ch8
-CHU https://cdn.qd.je/163189.php?id=chu
-TVB Plus,http://play.wenxiang.cn/live/5ec77f27f37babab48d60b879fde862a.flv
+TVB,https://cdn.qd.je/163189.php?id=tvb1
+TVBj1,https://cdn.qd.je/163189.php?id=j1
+翡翠剧集台,https://cdn.qd.je/163189.php?id=tvbd
+TVB Plus,https://cdn.qd.je/163189.php?id=tvbp 
+ViuTV,https://cdn.qd.je/163189.php?id=viu
+ViuTV six,https://cdn.qd.je/163189.php?id=viu6
+NOW新闻,https://cdn.qd.je/163189.php?id=now
+hoy76,https://cdn11.163189.xyz/163189/hoy76
+hoy77,https://cdn11.163189.xyz/163189/hoy77
 HOY77,http://play.wenxiang.cn/live/43dc6fc9b1af5af8ec332f3c88b95e4a.flv
 HOY78,http://play.wenxiang.cn/live/cf4526f51988d0ed065b5c3fa4bc925d.flv
+hoy78,https://cdn11.163189.xyz/163189/hoy78
+HOY78,http://120.234.44.98:18180/TV00000000000000000088@HHZT$天威hh
+金光布袋戏,https://cdn.qd.je/163189.php?id=jgbdx 
+TVB星河,https://cdn.qd.je/163189.php?id=xinghe
+天映频道,https://cdn.qd.je/163189.php?id=typd
+天映经典,https://cdn.qd.je/163189.php?id=ccm
+TVB星河,https://cdn.qd.je/163189.php?id=tvbxh 
+TVB千禧经典,https://cdn.qd.je/163189.php?id=tvbc 
+TVB武侠,https://cdn.qd.je/163189.php?id=yzwx 
+Astro AOD,https://cdn.qd.je/163189.php?id=aod  
+CH5,https://cdn.qd.je/163189.php?id=ch5
+CH8,https://cdn.qd.je/163189.php?id=ch8
+CHU,https://cdn.qd.je/163189.php?id=chu
+TVB Plus,http://play.wenxiang.cn/live/5ec77f27f37babab48d60b879fde862a.flv
 RTHK31,http://play.wenxiang.cn/live/0f4b100c9ed81fdd547ba0a1a20dea49.flv
 RTHK32,http://play.wenxiang.cn/live/1c84d2c289c82f92f588aaa566858174.flv
-八度空间 https://cdn.qd.je/163189.php?id=8tv
+八度空间,https://cdn.qd.je/163189.php?id=8tv
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8$官网
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8$官网
-耀才財經,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
-澳视澳门 https://cdn.qd.je/163189.php?id=asam
-澳视卫星 https://cdn.qd.je/163189.php?id=as
-澳门体育 https://cdn.qd.je/163189.php?id=amty
-澳门综艺 https://cdn.qd.je/163189.php?id=amzy
-澳门莲花 https://cdn.qd.je/163189.php?id=amlh
+澳视澳门,https://cdn.qd.je/163189.php?id=asam
+澳视卫星,https://cdn.qd.je/163189.php?id=as
+澳门体育,https://cdn.qd.je/163189.php?id=amty
+澳门综艺,https://cdn.qd.je/163189.php?id=amzy
+澳门莲花,https://cdn.qd.je/163189.php?id=amlh
 凤凰香港,http://120.234.44.98:18180/TV00000000000000000024@HHZT$天威hh
 RHK32,http://120.234.44.98:18180/TV00000000000000000017@HHZT$天威hh
 RHK31,http://120.234.44.98:18180/TV00000000000000000019@HHZT$天威hh
 RHK35,http://120.234.44.98:18180/TV00000000000000000045@HHZT$天威hh
-HOY78,http://120.234.44.98:18180/TV00000000000000000088@HHZT$天威hh
 无线新闻,http://120.234.44.98:18180/TV00000000000000000034@HHZT$天威hh
 TVB星河,http://120.198.95.220:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&down=1
 
@@ -191,8 +188,8 @@ DAZN1,rtmp://f13h.mine.nu/sat/tv731
 DAZN2,rtmp://f13h.mine.nu/sat/tv741
 NOW 70s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW7
 NOW 80s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW8
-NOW ROCK,https://php.946985.filegear-sg.me/mytv265.php?id=NOWR
 NOW 90s00s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW9
+NOW ROCK,https://php.946985.filegear-sg.me/mytv265.php?id=NOWR
 Concerto,https://php.946985.filegear-sg.me/mytv265.php?id=CONC
 TRACEURBAN,https://php.946985.filegear-sg.me/mytv265.php?id=TRUR
 NewsWorld,https://php.946985.filegear-sg.me/mytv265.php?id=NSWD
@@ -219,8 +216,6 @@ Young Hollywood,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoo
 韩国教育台,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
 韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 韩国中央台,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
-韩国-BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
-韩国-BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
 韩国-EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 韩国|Ebs Kids,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 韩国|EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
@@ -236,7 +231,7 @@ Young Hollywood,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoo
 韩国|EBSi,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
 韩国|EBS+2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
 韩国|KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_tvbox6.com.m3u8
-韩国|KCTV 1,http://119.77.96.184:1935/chn21/chn21/chunklist_tvbox6.com.m3u8
+韩国|KCTV,1,http://119.77.96.184:1935/chn21/chn21/chunklist_tvbox6.com.m3u8
 韩国|CJB|SBS,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 韩国|MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8
 韩国|KBS LIVE,http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
@@ -319,7 +314,6 @@ KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u
 KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
 CJB,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
-BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
 Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
 ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
@@ -327,7 +321,6 @@ Arirang Radio,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:ariran
 BTN,http://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8
 CPBC,http://onair1.cpbc.co.kr:1935/tv/smil:live.smil/playlist.m3u8
 EBS-KIDS,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
-GCN教会,http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8
 MBN,http://mytv.dothome.co.kr/ch/catv/54.php
 NewKID2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=878
 NewKID4,https://stream.ads.ottera.tv/playlist.m3u8?network_id=888
