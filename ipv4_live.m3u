@@ -13,6 +13,8 @@ CCTV-10科教,http://111.8.224.6:9999/tsfile/live/1039_1.m3u8?key=txiptv&playliv
 CCTV-11戏曲,http://59.172.112.202:8000/hls/11/index.m3u8
 CCTV-12社会与法,http://gslbserv.itv.cmvideo.cn:80/5325631075193490169/1.m3u8?channel-id=ystenlive&Contentid=5325631075193490169&livemode=1&stbId=toShengfen&mode=1
 CCTV-13新闻,http://59.172.112.202:8000/hls/13/index.m3u8
+CCTV-14少儿,http://119.233.255.62:1234/624878440
+CCTV-14少儿,http://120.238.84.45:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-14少儿,http://gslbserv.itv.cmvideo.cn:80/8203666801302077036/1.m3u8?channel-id=ystenlive&Contentid=8203666801302077036&livemode=1&stbId=toShengfen&mode=1
 CCTV-15音乐,http://59.172.112.202:8000/hls/15/index.m3u8
 CCTV-16奥林匹克,https://hlslive1-bd-w4.a.bdydns.com/live/hls_cdrm/enc1/av1/cctv16/1080p/index.m3u8
