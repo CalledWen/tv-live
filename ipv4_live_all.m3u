@@ -640,7 +640,6 @@ CETV-4,http://rihou.cc:555/tv/CETV4
 甘肃卫视,http://bztv.tvbus.cc:8081/cdnlive/gsws.m3u8
 甘肃卫视,http://rihou.cc:555/tv/甘肃卫视
 西藏卫视,http://cssbyd.imwork.net:8082/hls/46/index.m3u8
-华数,http://120.198.86.186:9901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,http://120.238.84.45:9901/tsfile/live/1077_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,http://183.11.239.36:808/hls/64/index.m3u8
 西藏卫视,http://198.204.228.26/live/xzws.m3u8
@@ -777,6 +776,7 @@ CHC影迷电影,http://112.11.122.190:58503/952383261
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
+华数,http://120.198.86.186:9901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
 东森洋片,https://live.catvod.com/catvod_com.php?id=ettvwestern
 东森洋片,http://rihou.cc:555/tv/东森洋片
 东森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
